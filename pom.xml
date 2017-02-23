@@ -1,14 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.yiyang</groupId>
-  <artifactId>taobaotool</artifactId>
+  <groupId>com.loot</groupId>
+  <artifactId>loot</artifactId>
   <packaging>war</packaging>
-  <version>1.0.1</version>
-  <name>TaobaoTool</name>
-  <description>this is YiYang Taobao Tool</description>
+  <version>1.0.0</version>
+  <name>LootTool</name>
+  <description>this is JD Loot Tool</description>
   
   <build>
-    <finalName>taobaotool</finalName>
+    <finalName>loottool</finalName>
     <plugins>
 	    <!-- Mybatis generator代码生成插件 配置 -->  
 		<plugin>  
